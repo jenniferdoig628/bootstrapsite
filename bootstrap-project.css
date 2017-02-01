@@ -1,0 +1,53 @@
+body {
+
+  background-color: pink;
+  font-family: "Crimson Text", serif; 
+}
+
+
+
+
+img {
+
+padding: 20px;
+
+}
+
+img:hover {
+
+  opacity: 0.5;
+}
+
+nav li a:hover {
+
+text-decoration: line-through;
+
+}
+
+.jumbotron {
+
+background-image:url(roses.jpg);
+}
+
+.jumbotron h2 {
+
+  font-family: Josefin Sans, serif;
+  font-size: 10em;
+  text-transform: bold;
+}
+
+h3 {
+padding: 20px;
+
+}
+
+.opinion {
+
+
+
+}
+
+#sel1 {
+
+
+}
